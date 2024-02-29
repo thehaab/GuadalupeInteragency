@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#contact-list {
+  margin: 20px;
+}
+
+.contact-item {
+  border-bottom: 1px solid #472222;
+  padding: 10px 0;
+}
+
+.contact-item:last-child {
+  border-bottom: none;
+}
+
+th {
+  text-align: center;
+  font-weight: 900;
+}
