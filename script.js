@@ -354,7 +354,7 @@ searchInput.addEventListener('input', () => {
                             <th>${contact.name}</th>
                         </tr>
                         <tr>
-                            <td>Email:${email}</td>
+                        <td>Email: <a href="mailto:${contact.email}"> ${contact.email}</a></td>
                         </tr>
                         <tr>
                             <td>Phone: ${contact.phone}</td>
