@@ -125,7 +125,7 @@ const contactsStr = [
          "Last Name": "Church",
          "First Name": "Travis",
          "Organization": "Community Cycles Seguin",
-         "Email": "thehaab@gmail.com",
+         "Email": "travis@communitycyclesseguin.org",
          "Phone Number ": "8134096131"
         },
         {
