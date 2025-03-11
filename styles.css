@@ -29,6 +29,6 @@ th {
   font-weight: 900;
 }
 
-li::marker {
+::marker {
   display: none;
 }
